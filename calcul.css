@@ -1,0 +1,50 @@
+body{
+    background-color: aquamarine;
+}
+.main{
+    width: 330px;
+    height: 420px;
+    background-color: black;
+    margin: auto;
+    border: 10px;
+    border-radius: 10px;
+    border-color: blue;
+    font-size: xx-large;
+    box-shadow: 5px 10px 10px aquamarine;
+}
+p{
+    text-align: right;
+    font-style: oblique;
+    margin-right: 15px;
+    font-weight: bolder;
+    color: white;
+}
+#show{
+    width: 310px;  
+    border: 5px solid black;  
+    border-radius: 3px;  
+      padding: 5px;
+    margin: auto;  
+    font-size: xx-large;
+    background-color: lightcyan;
+    color: blue;
+    text-align: right;
+}
+button{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    background-color: aqua;
+    font-size: xx-large;
+    box-shadow: 5px 5px 5px aqua;
+}
+.row{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+button:hover{
+    cursor: pointer;
+}
